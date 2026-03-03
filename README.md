@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jasmine Lee
 - 👀 I’m interested in listening music, reading books, going out for amazing foods, even cooking!
-- 🌱 I’m currently learning basic coding skills.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to use python, R, Apache Spark to create reports on patient information, clinical research, and EHR environment.
 - 📫 How to reach me 
   via email: lee724@uwm.edu
   via phone: +1 414-418-1435
